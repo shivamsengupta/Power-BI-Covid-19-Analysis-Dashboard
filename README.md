@@ -1,6 +1,3 @@
-Certainly! Here's a README file for your GitHub repository based on the analysis of COVID-19 data in the Asia region (excluding China) from 2020 to 2022:
-
----
 
 # COVID-19 Data Analysis in Asia (2020-2022)
 
