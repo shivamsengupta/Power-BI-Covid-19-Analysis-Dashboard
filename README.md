@@ -52,7 +52,3 @@ The surge in COVID-19 cases in these countries cannot be attributed to a single 
 7. **Smoking**: While smoking rates were higher in some countries, it did not appear to be the sole reason for surges or deaths.
 
 This analysis provides insights into the complex factors contributing to the COVID-19 situation in the Asia region during the specified period.
-
----
-
-Feel free to customize and expand this README file as needed for your GitHub repository. It should provide a clear overview of the analysis and its findings.
