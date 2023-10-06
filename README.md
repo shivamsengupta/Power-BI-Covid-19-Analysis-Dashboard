@@ -45,14 +45,14 @@ The surge in COVID-19 cases in these countries cannot be attributed to a single 
 
 4. **Diabetes Prevalence**: High diabetes prevalence in some countries did not necessarily correlate with surges.
 
+5. **Hospital Beds**: Countries with more hospital beds per 1000 people were better equipped to manage cases.
+
+6. **Older Population**: A higher percentage of older people may have contributed to surges in Japan and South Korea.
+
+7. **Smoking**: While smoking rates were higher in some countries, it did not appear to be the sole reason for surges or deaths.
+
+This analysis provides insights into the complex factors contributing to the COVID-19 situation in the Asia region during the specified period.
+
 
 ## Have a look at the dashboard
 [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMmFiOThjNjMtZjczMC00ZGFlLWFlYzctMzUxOGY4M2YzMzJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection32c3613d943d035a46d2)
-
-6. **Hospital Beds**: Countries with more hospital beds per 1000 people were better equipped to manage cases.
-
-7. **Older Population**: A higher percentage of older people may have contributed to surges in Japan and South Korea.
-
-8. **Smoking**: While smoking rates were higher in some countries, it did not appear to be the sole reason for surges or deaths.
-
-This analysis provides insights into the complex factors contributing to the COVID-19 situation in the Asia region during the specified period.
